@@ -6,6 +6,8 @@
 <p align="justify">There are plenty of CI/CD tools such as Jenkins, GitLab..., but one of them produced by GitHub more recently is known as GitHub Actions. This tool allows us to create these workflows so that when someone pushes code to a Git repository, certain steps defined by a developer take place automatically. So, for example, we can use GitHub Actions to automate the process of running tests; every time anyone pushes to a repository, we'll automatically run some GitHub action that is going to take care of the process of running tests on that program. And we will know immediately as a particular test fails every pushes occurs.</p>
 
 ## Sources
-https://en.wikipedia.org/wiki/CI/CD<br>
-https://youtu.be/WbRDkJ4lPdY
+<a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank" rel="noopener">https://en.wikipedia.org/wiki/CI/CD</a>
+<br>
+<a href="https://youtu.be/WbRDkJ4lPdY" target="_blank" rel="noopener">https://youtu.be/WbRDkJ4lPdY</a>
+
 
