@@ -1,10 +1,4 @@
 # What is CI/CD?
-<br/>
-<img
-  src="./img/devops.svg"
-  alt="DevOps cycle"
-  style="display: block; margin: 0 auto; max-width: 300px">
-<br/>
 <p align="justify">CI/CD (Continuous Integration and Continuous Delivery) refers to 2 best practices in the software development world. Continuous Integration involves frequent merges to the main branch of a Git repository, and then automatically running unit tests when that code is pushed. Since multiple people are working on the same project and each working on different features, CI helps these changes merge into the mainstream to ensure that these incremental changes can happen. In addition, another key idea of CI is automated unit testing, where each little part of our program is tested to behave the way it is supposed to. Continuous Delivery refers to shorter release schedules that allow new features to get out to users much more quickly instead of releasing something at the end of the long cycle.</p>
 <br/>
 
